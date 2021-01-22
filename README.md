@@ -1,1 +1,1 @@
-# library-app
+An exercise to build a JavaScript calculator from The Odin Project's [curriculum](https://www.theodinproject.com/courses/javascript/lessons/library)
