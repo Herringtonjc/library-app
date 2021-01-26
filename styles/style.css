@@ -1,0 +1,9 @@
+#main-header {
+    text-align: center;
+    font-size: 5em;
+}
+
+div.library-grid-display {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
