@@ -11,11 +11,3 @@ function Book(title, author, numberOfPages, haveRead) {
 Book.prototype.info = function() {
     return `${this.title} by ${this.author}, ${this.numberOfPages} pages, ${this.haveRead}`;
 };
-
-function addBookToLibrary(bookToAdd) {
-    myLibrary.push(bookToAdd)
-};
-
-function displayBook() {
-
-}
